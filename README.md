@@ -1,6 +1,6 @@
 # GOPROQR-Portable
 
-https://drive.google.com/file/d/1GHyHdnqp-BktYZbZp5BhohH4omHjMcFg/view?usp=sharing
+
 
 THIS IS HTML FILE WHICH BEEN SETUP AS MAC OS APP FOR QR BQECODE SETUP YOUR GOPRO TO LIVE STREAM.
 
